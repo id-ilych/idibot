@@ -1,0 +1,1 @@
+This is just dummy bot to tinker with Telegram Bot API.

@@ -1,0 +1,18 @@
+{
+  "name": "idibot",
+  "version": "0.0.0",
+  "description": "Telegram bot as a dev playground.",
+  "license": "MIT",
+  "main": "server.js",
+  "repository": "",
+  "author": "Ilya Denisov <id.ilych@gmail.com>",
+  "engines": {
+    "node": ">=6.2.0"
+  },
+  "dependencies": {
+    "async": "~0.2.8",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14",
+    "telegraf": "^3.6.4"
+  }
+}
